@@ -1,12 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import './PremiumHero.css';
-import Events from './Events.jsx';
 import { Link } from 'react-router-dom';
-import sh1 from '../image/sh1.jpg';
-import sh2 from '../image/sh2.jpg';
-import sh3 from '../image/sh3.jpg';
-import sh4 from '../image/sh4.jpg';
-import sh5 from '../image/sh5.jpg';
+
 
 
 const PremiumHero = () => {
